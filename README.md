@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Laura Bernal :D</h1>
 <div align="center"><img src='https://thumbs.gfycat.com/ExcellentMadeupChital-max-1mb.gif' ></img></div>
-<h3 align="center">A passionate Full Stack Developer from Colombia</h3>
+<h3 align="center">Soy una desarrolladora Full Stack que siempre se ha interesado por la tecnología y la programación.
+
+tener claros mis objetivos y la manera en que puedo alcanzarlos  me es muy útil a la hora de desarrollar nuevos proyectos o mejorarlos. Cuando me enfrento a una dificultad estoy dispuesta a recibir consejos y a aprender de la experiencia de otros, de la misma manera, si alguien necesita una mano ofrezco mi ayuda.
+
+Aprender de los demás y enseñar a otros me ha ayudado a relacionarme mejor con quienes me rodean, en especial cuando trabajo en equipo.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
