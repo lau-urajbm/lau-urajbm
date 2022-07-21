@@ -18,6 +18,12 @@ Aprender de los demás y enseñar a otros me ha ayudado a relacionarme mejor con
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
   </div>
+  <div>Bootstrap
+  <a href="https://www.w3schools.com/bootstrap/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="css3" width="40" height="40"/> 
+  </a>
+  </div
+  
   <div>Express
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
